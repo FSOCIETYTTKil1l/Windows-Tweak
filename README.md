@@ -26,7 +26,7 @@ A simple and powerful tool to optimize, tweak, and customize Microsoft Windows.
 
 1. Download the latest version from the **Releases** page
 2. Extract the ZIP file
-3. Run `WindowsTweak.exe` as **Administrator**
+3. Run `WindowsTweak.exe` 
 
 ---
 
